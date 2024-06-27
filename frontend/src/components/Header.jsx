@@ -39,7 +39,7 @@ export default function Header() {
         <Button className='w-12 h-10 hidden sm:inline' color='gray' pill >
         <FontAwesomeIcon icon={faMoon} />
         </Button>
-        <Button gradientDuoTone='purpleToBlue'>
+        <Button gradientDuoTone='purpleToBlue' outline>
             Sign In
         </Button>
         </div>
